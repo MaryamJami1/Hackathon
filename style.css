@@ -156,7 +156,7 @@ padding: 30px;
 line-height: 16;
 }
 
-
+/* 
 @media only screen and (max-width: 1050px) {
 
     .navbar-nav {
@@ -177,7 +177,7 @@ line-height: 16;
     }
 
 }
-
+ */
 
 @media only screen and (max-width: 850px) {
 
@@ -222,7 +222,7 @@ line-height: 16;
 
 }
 
-
+/* 
 
 @media only screen and (max-width: 1050px) {
 
@@ -266,7 +266,7 @@ line-height: 16;
     }
 
     
-}
+} */
 
 
 
